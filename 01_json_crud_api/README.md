@@ -6,7 +6,6 @@ This repository contains a simple Golang implementation of a CRUD (Create, Read,
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
 - [Important Commmands](#important-commands)
